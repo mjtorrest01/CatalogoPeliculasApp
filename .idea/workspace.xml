@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cff8f6c5-4a07-4591-a84f-1d32560a604a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/servicio/IServicioPeliculas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servicio/ServicioPeliculasLista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CatalogoPeliculasApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Pelicula.java" afterDir="false" />
-    </list>
+    <list default="true" id="cff8f6c5-4a07-4591-a84f-1d32560a604a" name="Changes" comment="creando Catalogo de pelicula APP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +67,46 @@
       <option name="presentableId" value="Default" />
       <updated>1679424818267</updated>
     </task>
+    <task id="LOCAL-00001" summary="Corrigiendo error">
+      <option name="closed" value="true" />
+      <created>1688328909529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688328909529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creando interfas de peliculas y clase lista de pelicula">
+      <option name="closed" value="true" />
+      <created>1688328980627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688328980627</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creando archivo peliculas">
+      <option name="closed" value="true" />
+      <created>1688329058668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329058668</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creando Catalogo de pelicula APP">
+      <option name="closed" value="true" />
+      <created>1688329094832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329094832</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Corrigiendo error" />
+    <MESSAGE value="Creando interfas de peliculas y clase lista de pelicula" />
+    <MESSAGE value="Creando archivo peliculas" />
+    <MESSAGE value="creando Catalogo de pelicula APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="creando Catalogo de pelicula APP" />
   </component>
 </project>
