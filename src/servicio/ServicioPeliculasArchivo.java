@@ -53,7 +53,7 @@ public class ServicioPeliculasArchivo implements IServicioPeliculas{
 
   @Override
   public void agregarPelicula(Pelicula pelicula) {
-    boolean anexar = false;
+    boolean anexar;
     var archivo = new File(NOMBRE_ARCHIVO);
     try{
       // Revisamos si existe el archivo
@@ -78,7 +78,7 @@ public class ServicioPeliculasArchivo implements IServicioPeliculas{
       lineaTexto = entrada.readLine();
       var indice = 1;
       var encontrada = false;
-      var peliculaBuscar = pelicula.getNombre();
+      var peliculaBuscar = pelicula.nombre();
       while(lineaTexto != null){
         // Buscamos sin importar mayusculas/minusculas
         if(peliculaBuscar != null && peliculaBuscar.equalsIgnoreCase(lineaTexto)){
@@ -95,7 +95,7 @@ public class ServicioPeliculasArchivo implements IServicioPeliculas{
                 + " encontrada - linea " + indice);
       else
         System.out.println("No se ha encontrado la pelicula: "
-                + pelicula.getNombre());
+                + pelicula.nombre());
       entrada.close();
     } catch(Exception e){
       System.out.println("Ocurrio un error al buscar en el archivo: "

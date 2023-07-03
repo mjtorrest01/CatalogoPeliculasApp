@@ -3,9 +3,9 @@ package servicio;
 import dominio.Pelicula;
 
 public interface IServicioPeliculas {
-  public void listarPeliculas();
+  void listarPeliculas();
 
-  public void agregarPelicula(Pelicula pelicula);
+  void agregarPelicula(Pelicula pelicula);
 
-  public void buscarPelicula(Pelicula pelicula);
+  void buscarPelicula(Pelicula pelicula);
 }

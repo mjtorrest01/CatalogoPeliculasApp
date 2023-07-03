@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cff8f6c5-4a07-4591-a84f-1d32560a604a" name="Changes" comment="creando Catalogo de pelicula APP" />
+    <list default="true" id="cff8f6c5-4a07-4591-a84f-1d32560a604a" name="Changes" comment="Agregando Peliculas de Ejemplo en el Archivo peliculas.txt usando la APP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peliculas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/peliculas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentacion/CatalogoPeliculasApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentacion/CatalogoPeliculasApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servicio/IServicioPeliculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servicio/IServicioPeliculas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servicio/ServicioPeliculasArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servicio/ServicioPeliculasArchivo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688329094832</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Agregando Peliculas de Ejemplo en el Archivo peliculas.txt usando la APP">
+      <option name="closed" value="true" />
+      <created>1688329441274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329441274</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +122,7 @@
     <MESSAGE value="Creando interfas de peliculas y clase lista de pelicula" />
     <MESSAGE value="Creando archivo peliculas" />
     <MESSAGE value="creando Catalogo de pelicula APP" />
-    <option name="LAST_COMMIT_MESSAGE" value="creando Catalogo de pelicula APP" />
+    <MESSAGE value="Agregando Peliculas de Ejemplo en el Archivo peliculas.txt usando la APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando Peliculas de Ejemplo en el Archivo peliculas.txt usando la APP" />
   </component>
 </project>
